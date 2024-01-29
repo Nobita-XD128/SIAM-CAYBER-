@@ -179,7 +179,7 @@ def clear():
 	print(logo)
 	print('\033[1;37m\033[1;32m[💕] WELCOME TO MR EMRAN EHC TOOLS [💖]\033[1;0m\33[1;32m')
 	linex()
- os.system('xdg-open https://t.me/siamcyber')
+## os.system('xdg-open https://t.me/siamcyber')
 loop = 0
 oks = []
 cps = []
